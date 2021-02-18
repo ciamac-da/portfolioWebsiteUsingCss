@@ -2,7 +2,7 @@
 :root {
     --main-white: #f0f0f0;
     --main-red: #9c1c30;
-    --main-blue: #a1aa25;
+    --main-lemon: #a1aa25;
     --main-gray: #303841;
   }
   
@@ -148,7 +148,7 @@ h1:hover{
   }
   
   .nav-list a:hover {
-    background: var(--main-blue);
+    background: var(--main-lemon);
   }
   
   /* Welcome section */
@@ -176,7 +176,7 @@ h1:hover{
   .projects-section {
     text-align: center;
     padding: 10rem 2rem;
-    background: var(--main-blue);
+    background: var(--main-lemon);
   }
   
   .projects-section-header {
